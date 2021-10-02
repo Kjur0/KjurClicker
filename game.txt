@@ -1,0 +1,4 @@
+Let's make a game!
+    name:KjurClicker
+    author:kjur0
+    desc:Simple idle game
